@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arne-Wiese
 - 👀 I’m interested in Data-Science
-- 🌱 I’m currently making my bachelors degree in computer science
+- 🌱 Finished my bachelors degree in computer science
 
 <!---
 Arne-Wiese/Arne-Wiese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
